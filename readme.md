@@ -23,7 +23,13 @@ gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 ### 3.PERGUNTAS A SEREM RESPONDIDAS<br>
 #### 3.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
+    	O sistema poderá informar quais produtos ainda estão disponíveis no estoque, e quais estão faltando para o estabelicimento, poderá tambem informar quais produtos estão perto da sua data de vencimento, será possível ter uma controle da entrada e saída dos produtos, e separá-los por categorias. 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+    	* Relatório que mostre quais produtos estão em falta ou acabando no estoque.
+     	* Relatório de quais produtos estão perto da sua data de vencimento.
+      	* Relatório da entrada e saída de produtos do estoque.
+       	* Relatório de quais categorias de produtos são mais utilizadas e menos utilizadas.
+	* Relatório que mostre as movimentações dos produtos com suas informações: nome do produto, quantidade, categoria, validade, data da movimentação, e o tipo da movimentação.
     
 > A Empresa DevCom precisa inicialmente dos seguintes relatórios:
 * Relatório que mostre o nome de cada supervisor(a) e a quantidade de empregados supervisionados.
